@@ -1,3 +1,13 @@
+<a name="3.3.6"></a>
+## [3.3.6](https://github.com/hubcarl/egg-webpack/compare/3.3.5...3.3.6) (2018-04-09)
+
+
+### Bug Fixes
+
+* master process exit, child process exit ([88d00bf](https://github.com/hubcarl/egg-webpack/commit/88d00bf))
+
+
+
 <a name="3.3.4"></a>
 ## [3.3.4](https://github.com/hubcarl/egg-webpack/compare/3.3.3...3.3.4) (2018-03-20)
 
