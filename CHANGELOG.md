@@ -18,7 +18,7 @@
 * compatible old version for dll and add use doc ([ff2056e](https://github.com/hubcarl/egg-webpack/commit/ff2056e))
 * default url ([4484652](https://github.com/hubcarl/egg-webpack/commit/4484652))
 * egg static resource no proxy ([460b57c](https://github.com/hubcarl/egg-webpack/commit/460b57c))
-* egg-webpack proxy and webpack-tool proxy repeat ([dcea541](https://github.com/hubcarl/egg-webpack/commit/dcea541))
+* egg-webpack proxy and webpack-tool-x proxy repeat ([dcea541](https://github.com/hubcarl/egg-webpack/commit/dcea541))
 * master process exit, child process exit ([0f4f433](https://github.com/hubcarl/egg-webpack/commit/0f4f433))
 * normalizeUrlFile might get undefined ([b189183](https://github.com/hubcarl/egg-webpack/commit/b189183))
 * not use default port error ([5544f1e](https://github.com/hubcarl/egg-webpack/commit/5544f1e))
@@ -74,7 +74,7 @@
 
 ### Bug Fixes
 
-* egg-webpack proxy and webpack-tool proxy repeat ([dcea541](https://github.com/hubcarl/egg-webpack/commit/dcea541))
+* egg-webpack proxy and webpack-tool-x proxy repeat ([dcea541](https://github.com/hubcarl/egg-webpack/commit/dcea541))
 
 
 ### Features
@@ -171,7 +171,7 @@
 
   * feat:http static resource mapping relative path
   * feat:update default port 9000
-  * refactor:use webpack-tool start server
+  * refactor:use webpack-tool-x start server
   * docs:update use doc
 
 2.0.0 / 2017-06-19

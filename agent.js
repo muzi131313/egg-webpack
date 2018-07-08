@@ -10,7 +10,7 @@ module.exports = agent => {
     if (config.webpackConfigList && !Array.isArray(config.webpackConfigList)) {
       config.webpackConfigList = [config.webpackConfigList];
     }
-    // webpack-tool not need proxy again
+    // webpack-tool-x not need proxy again
     const serverConfig = Object.assign({}, config, { proxy: false });
     if (Utils.isUseMultProcess(agent.baseDir, config)) {
       new MultProcessWebpackServer(agent, serverConfig).start();

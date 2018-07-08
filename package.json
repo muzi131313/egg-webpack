@@ -1,5 +1,5 @@
 {
-  "name": "egg-webpack",
+  "name": "egg-webpack-x",
   "version": "4.2.0",
   "description": "webpack dev server plugin for egg, support read file in memory and hot reload.",
   "eggPlugin": {
@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "mkdirp": "^0.5.1",
-    "webpack-tool": "^4.1.0",
+    "webpack-tool-x": "3.1.5",
     "co-request": "^0.2.0",
     "iconv-lite": "^0.2.11"
   },
@@ -59,12 +59,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hubcarl/egg-webpack.git"
+    "url": "git+https://github.com/muzi131313/egg-webpack.git"
   },
   "bugs": {
-    "url": "https://github.com/hubcarl/egg-webpack/issues"
+    "url": "https://github.com/muzi131313/egg-webpack/issues"
   },
-  "homepage": "https://github.com/hubcarl/egg-webpack#readme",
-  "author": "hubcarl@126.com",
+  "homepage": "https://github.com/muzi131313/egg-webpack#readme",
+  "author": "muzi131313@163.com",
   "license": "MIT"
 }
