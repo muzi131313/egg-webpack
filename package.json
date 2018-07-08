@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "mkdirp": "^0.5.1",
-    "webpack-tool-x": "3.1.5",
+    "webpack-tool-x": "3.1.6",
     "co-request": "^0.2.0",
     "iconv-lite": "^0.2.11"
   },
